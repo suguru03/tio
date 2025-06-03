@@ -57,7 +57,7 @@ Create documents in both English and Japanese:
 **日付:** YYYY-MM-DD
 **カテゴリー:** [category name in Japanese]
 
-> 🇺🇸 [English version](./YYYY-MM-DD-brief-description.md)
+> 🇨🇦 [English version](./YYYY-MM-DD-brief-description.md)
 
 ## 何を改善したか
 [改善内容の明確な説明]

@@ -2,7 +2,7 @@
 
 TIO (Today I Optimized) は、私が生活や仕事で改善した小さなことを記録するリポジトリです。
 
-> 🇺🇸 [English version](./README.md)
+> 🇨🇦 [English version](./README.md)
 
 ## 📝 TIOとは？
 

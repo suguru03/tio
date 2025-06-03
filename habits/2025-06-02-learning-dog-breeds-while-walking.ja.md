@@ -3,7 +3,7 @@
 **日付:** 2025-06-02
 **カテゴリー:** 習慣
 
-> 🇺🇸 [English version](./2025-06-02-learning-dog-breeds-while-walking.md)
+> 🇨🇦 [English version](./2025-06-02-learning-dog-breeds-while-walking.md)
 
 ## 何を改善したか
 週末の散歩でただ歩くのではなく、すれ違う犬の犬種を積極的に観察し覚えていくことで、週末の運動時間を学習機会に変えることにしました。
