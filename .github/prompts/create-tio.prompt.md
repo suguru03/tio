@@ -74,8 +74,9 @@ Create documents in both English and Japanese:
 ```
 
 ## Updating Category README:
-After creating the TIO entry files, update the category's README.md file by adding a new row to the TIO Entries table:
+After creating the TIO entry files, update both the English and Japanese README files in the category directory:
 
+### English README (README.md):
 1. **Locate the README.md** in the category directory (create one if it doesn't exist)
 2. **Add a new table row** in the "📚 TIO Entries" section with the format:
    ```markdown
@@ -84,9 +85,24 @@ After creating the TIO entry files, update the category's README.md file by addi
 3. **Insert the new row** at the top of the table (after the header) to maintain reverse chronological order
 4. **Choose an appropriate emoji** that represents the type of optimization
 
-### Table Row Example:
+### Japanese README (README.ja.md):
+1. **Locate the README.ja.md** in the category directory (create one if it doesn't exist)
+2. **Add a new table row** in the "📚 TIO エントリー" section with the format:
+   ```markdown
+   | YYYY-MM-DD | [emoji] **[Japanese Title]** | [Brief description in Japanese] | [EN](./filename.md) • [日本語](./filename.ja.md) |
+   ```
+3. **Insert the new row** at the top of the table (after the header) to maintain reverse chronological order
+4. **Use the same emoji** as the English version for consistency
+
+### Table Row Examples:
+**English:**
 ```markdown
 | 2025-06-05 | 🔧 **Streamlining Git Pull with Branch Environment Variables** | Automating git pull operations using environment variables for branch management | [EN](./2025-06-05-git-pull-branch-env-optimization.md) • [日本語](./2025-06-05-git-pull-branch-env-optimization.ja.md) |
 ```
 
-Please create both English and Japanese versions of the document, with cross-references between them, and update the appropriate category README with a table entry.
+**Japanese:**
+```markdown
+| 2025-06-05 | 🔧 **ブランチ環境変数でGit Pullを効率化** | ブランチ管理のための環境変数を使用したgit pull操作の自動化 | [EN](./2025-06-05-git-pull-branch-env-optimization.md) • [日本語](./2025-06-05-git-pull-branch-env-optimization.ja.md) |
+```
+
+Please create both English and Japanese versions of the document, with cross-references between them, and update both the English and Japanese category README files with table entries.
