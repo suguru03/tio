@@ -10,7 +10,7 @@ Every day presents opportunities for small improvements. This repository capture
 
 ## 📂 Categories
 
-- **🚀 productivity** - workflow, time management, tools
+- **🚀 [productivity](./productivity/README.md)** - workflow, time management, tools
 - **💪 health** - exercise, diet, sleep, wellness  
 - **💻 technology** - coding, software, hardware optimizations
 - **💬 communication** - meetings, emails, documentation
@@ -18,7 +18,7 @@ Every day presents opportunities for small improvements. This repository capture
 - **💰 finance** - budgeting, investing, expense tracking
 - **🏠 home** - organization, maintenance, efficiency
 - **👔 work** - processes, collaboration, project management
-- **🔄 habits** - daily routines, behavior changes
+- **🔄 [habits](./habits/README.md)** - daily routines, behavior changes
 - **⚡ automation** - scripts, workflows, systems
 
 ## 🌐 Language Support
