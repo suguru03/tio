@@ -71,13 +71,14 @@ Move prompt files from .github/prompts/ to .github/ for better accessibility.
 5. **Reference specific improvements** - mention the optimization being documented
 
 ## Output Format:
-Provide the commit message in a code block, ready to copy and paste:
+Provide the git commands in a code block, ready to copy and paste:
 
 ```bash
+git add .
 git commit -m "feat(habits): add dog breed learning during weekend walks
 
 Document optimization of weekend walks by actively observing and learning dog breeds.
 Created bilingual entry with cross-references between English and Japanese versions."
 ```
 
-Please generate an appropriate commit message based on the user's TIO entry or changes.
+Please generate appropriate git commands based on the user's TIO entry or changes.
