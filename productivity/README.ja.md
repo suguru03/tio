@@ -12,6 +12,7 @@
 
 | 日付 | タイトル | 説明 | リンク |
 |------|----------|------|-------|
+| 2025-06-06 | 📝 **Copilot PromptによるAPI Docの自動生成** | コントローラー変更検出時にCopilot promptを使用してAPIドキュメントの更新を自動化 | [EN](./2025-06-06-copilot-prompt-api-doc-automation.md) • [日本語](./2025-06-06-copilot-prompt-api-doc-automation.ja.md) |
 | 2025-06-05 | 🔧 **ブランチ環境変数でGit Pullを効率化** | ブランチ管理のための環境変数を使用したgit pull操作の自動化 | [EN](./2025-06-05-git-pull-branch-env-optimization.md) • [日本語](./2025-06-05-git-pull-branch-env-optimization.ja.md) |
 | 2025-06-02 | 💬 **作業効率のためのコミットメッセージプロンプト作成** | 一貫性のある意味のあるコミットメッセージを生成する構造化プロンプトの開発 | [EN](./2025-06-02-commit-message-prompt-for-work.md) • [日本語](./2025-06-02-commit-message-prompt-for-work.ja.md) |
 
