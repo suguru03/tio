@@ -16,7 +16,7 @@ Every day presents opportunities for small improvements. This repository capture
 - **💬 communication** - meetings, emails, documentation
 - **📚 learning** - study methods, skill development
 - **💰 finance** - budgeting, investing, expense tracking
-- **🏠 home** - organization, maintenance, efficiency
+- **🏠 [home](./home/README.md)** - organization, maintenance, efficiency
 - **👔 work** - processes, collaboration, project management
 - **🔄 [habits](./habits/README.md)** - daily routines, behavior changes
 - **⚡ automation** - scripts, workflows, systems
