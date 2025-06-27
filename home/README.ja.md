@@ -6,8 +6,9 @@
 
 ## 📚 TIO エントリー
 
-| 日付 | タイトル | 説明 | リンク |
-|------|----------|------|--------|
+| 日付         | タイトル | 説明 | リンク |
+|------------|----------|------|--------|
+| 2025-06-26 | 🍽️ **食事計画を考慮した食洗機使用の最適化** | 食洗機がいっぱいになるのを待つのではなく、将来の食事のニーズを予測した先回りの食洗機運用 | [EN](./2025-06-26-dishwasher-usage-optimization-for-meal-planning.md) • [日本語](./2025-06-26-dishwasher-usage-optimization-for-meal-planning.ja.md) |
 | 2025-06-17 | 🧺 **乾燥機のホコリ管理を重視した洗濯プロセスの最適化** | ホコリの汚染を防ぎ、きれいなものから順に扱う原則に従った体系的な洗濯ワークフロー | [EN](./2025-06-17-optimizing-laundry-process-dryer-lint-management.md) • [日本語](./2025-06-17-optimizing-laundry-process-dryer-lint-management.ja.md) |
 
 ## 🎯 対象分野
