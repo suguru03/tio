@@ -11,7 +11,7 @@ Every day presents opportunities for small improvements. This repository capture
 ## 📂 Categories
 
 - **🚀 [productivity](./productivity/README.md)** - workflow, time management, tools
-- **💪 health** - exercise, diet, sleep, wellness  
+- **💪 [health](./health/README.md)** - exercise, diet, sleep, wellness  
 - **💻 technology** - coding, software, hardware optimizations
 - **💬 communication** - meetings, emails, documentation
 - **📚 learning** - study methods, skill development

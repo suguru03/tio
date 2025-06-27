@@ -11,7 +11,7 @@ TIO (Today I Optimized) は、私が生活や仕事で改善した小さなこ�
 ## 📂 カテゴリー
 
 - **🚀 [productivity（生産性）](./productivity/README.ja.md)** - ワークフロー、時間管理、ツール
-- **💪 health（健康）** - 運動、食事、睡眠、ウェルネス
+- **💪 [health（健康）](./health/README.ja.md)** - 運動、食事、睡眠、ウェルネス
 - **💻 technology（技術）** - コーディング、ソフトウェア、ハードウェア最適化
 - **💬 communication（コミュニケーション）** - 会議、メール、ドキュメント
 - **📚 learning（学習）** - 学習方法、スキル開発
