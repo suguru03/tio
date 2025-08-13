@@ -10,6 +10,7 @@ This directory contains optimizations related to productivity improvements, work
 
 | Date | Title | Description | Links |
 |------|-------|-------------|-------|
+| 2025-08-12 | 📊 **Google Sheets Data Creation Automation** | Automated Google Sheets operations using Copilot Agent-integrated APIs for natural language data management | [EN](./2025-08-12-google-sheets-api-automation-with-copilot.md) • [日本語](./2025-08-12-google-sheets-api-automation-with-copilot.ja.md) |
 | 2025-07-23 | 🛠️ **Setting up gh CLI for GitHub Prompt** | Enabled GitHub Prompt functionality using gh CLI | [EN](./2025-07-23-gh-cli-github-prompt-setup.md) • [日本語](./2025-07-23-gh-cli-github-prompt-setup.ja.md) |
 | 2025-06-18 | 📊 **Creating Standard Mermaid Diagram Prompt for Copilot Agent** | Developing standardized prompts for theme-aware Mermaid diagrams in documentation repositories | [EN](./2025-06-18-mermaid-diagram-prompt-for-copilot-agent.md) • [日本語](./2025-06-18-mermaid-diagram-prompt-for-copilot-agent.ja.md) |
 | 2025-06-06 | 📝 **Copilot Prompt for Automatic API Documentation Generation** | Automating API documentation updates using Copilot prompts when controller changes are detected | [EN](./2025-06-06-copilot-prompt-api-doc-automation.md) • [日本語](./2025-06-06-copilot-prompt-api-doc-automation.ja.md) |

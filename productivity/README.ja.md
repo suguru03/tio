@@ -12,6 +12,7 @@
 
 | 日付 | タイトル | 説明 | リンク |
 |------|----------|------|-------|
+| 2025-08-12 | 📊 **Google Sheetsデータ作成の自動化** | Copilot Agent統合APIを使用してGoogle Sheetsの操作を自動化し、自然言語によるデータ管理を実現 | [EN](./2025-08-12-google-sheets-api-automation-with-copilot.md) • [日本語](./2025-08-12-google-sheets-api-automation-with-copilot.ja.md) |
 | 2025-07-23 | 🛠️ **gh CLIを使ったGitHub Promptのセットアップ** | gh CLIを活用してGitHub Prompt機能を実現 | [EN](./2025-07-23-gh-cli-github-prompt-setup.md) • [日本語](./2025-07-23-gh-cli-github-prompt-setup.ja.md) |
 | 2025-06-18 | 📊 **Copilot AgentのためのMermaid図表標準プロンプト作成** | ドキュメントリポジトリでテーマ対応Mermaid図表のための標準化プロンプトの開発 | [EN](./2025-06-18-mermaid-diagram-prompt-for-copilot-agent.md) • [日本語](./2025-06-18-mermaid-diagram-prompt-for-copilot-agent.ja.md) |
 | 2025-06-06 | 📝 **Copilot PromptによるAPI Docの自動生成** | コントローラー変更検出時にCopilot promptを使用してAPIドキュメントの更新を自動化 | [EN](./2025-06-06-copilot-prompt-api-doc-automation.md) • [日本語](./2025-06-06-copilot-prompt-api-doc-automation.ja.md) |
